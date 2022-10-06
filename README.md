@@ -9,4 +9,6 @@ Para executar as Api´s seguir o passo a passo
 
 2° Selecionar a opção de vários projetos de inicialização 
 
-<img width="602" alt="DefinirProjetos" src="https://user-images.githubusercontent.com/56492256/194196839-1bfcb1f8-3b84-4b8d-975b-d32cc94c0665.PNG">
+<img width="589" alt="DefinirProjetos" src="https://user-images.githubusercontent.com/56492256/194197928-96d75cf2-0058-45ab-a2b2-b2dbea2249e5.PNG">
+
+Vale ressaltar que é preciso aplicar as modificações e Colocar para iniciar a GranitoPagamento.APICalculo e GranitoPagmaneto.APITaxas. Colocar a ação para iniciar nas duas API
