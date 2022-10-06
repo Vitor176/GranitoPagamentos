@@ -41,7 +41,7 @@ namespace GranitoPagamento.APICalculo.Controllers
 		[HttpGet("showmethecode")]
 		public async Task<IActionResult> Get()
 		{
-			return Ok("https://github.com/Vitor176?tab=repositories");
+			return Ok("https://github.com/Vitor176/GranitoPagamentos");
 		}
 	}
 }
