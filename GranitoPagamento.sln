@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GranitoPagamento.APITaxas", "GranitoPagamento.Taxas\GranitoPagamento.APITaxas.csproj", "{32DC9FEE-7B70-4ED8-A8E1-ACC40175E503}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GranitoPagamento.DTO", "GranitoPagamento.DTO\GranitoPagamento.DTO.csproj", "{C5EDE539-7CFB-4F51-B888-C088A6F3B7E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GranitoPagamento.APICalculo", "GranitoPagamento.APICalculo\GranitoPagamento.APICalculo.csproj", "{BC26BE6B-AF66-4BAD-8AC2-1997EA8FD6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranitoPagamento.Proxy", "GranitoPagamento.Proxy\GranitoPagamento.Proxy.csproj", "{1B69BBC7-0E58-445F-BBD8-91DEF7EE2862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranitoPagamento.Business", "GranitoPagamento.Business\GranitoPagamento.Business.csproj", "{A78A57DD-50CD-4D44-B6A1-ECD66D727708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranitoPagamento.Test", "GranitoPagamento.Test\GranitoPagamento.Test.csproj", "{6E6F2907-8824-4779-B13E-6ECE6E0162F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DC9FEE-7B70-4ED8-A8E1-ACC40175E503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DC9FEE-7B70-4ED8-A8E1-ACC40175E503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DC9FEE-7B70-4ED8-A8E1-ACC40175E503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DC9FEE-7B70-4ED8-A8E1-ACC40175E503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EDE539-7CFB-4F51-B888-C088A6F3B7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EDE539-7CFB-4F51-B888-C088A6F3B7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EDE539-7CFB-4F51-B888-C088A6F3B7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EDE539-7CFB-4F51-B888-C088A6F3B7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC26BE6B-AF66-4BAD-8AC2-1997EA8FD6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC26BE6B-AF66-4BAD-8AC2-1997EA8FD6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC26BE6B-AF66-4BAD-8AC2-1997EA8FD6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC26BE6B-AF66-4BAD-8AC2-1997EA8FD6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B69BBC7-0E58-445F-BBD8-91DEF7EE2862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B69BBC7-0E58-445F-BBD8-91DEF7EE2862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B69BBC7-0E58-445F-BBD8-91DEF7EE2862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B69BBC7-0E58-445F-BBD8-91DEF7EE2862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78A57DD-50CD-4D44-B6A1-ECD66D727708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78A57DD-50CD-4D44-B6A1-ECD66D727708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78A57DD-50CD-4D44-B6A1-ECD66D727708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78A57DD-50CD-4D44-B6A1-ECD66D727708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6F2907-8824-4779-B13E-6ECE6E0162F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6F2907-8824-4779-B13E-6ECE6E0162F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6F2907-8824-4779-B13E-6ECE6E0162F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6F2907-8824-4779-B13E-6ECE6E0162F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1C25817-3894-43C4-BA84-53CE07786D78}
+	EndGlobalSection
+EndGlobal

@@ -3,3 +3,8 @@
 ################################################################################
 
 /GranitoPagamento.APICalculo/obj
+/GranitoPagamento.Business/obj
+/GranitoPagamento.DTO/obj
+/GranitoPagamento.Proxy/obj
+/GranitoPagamento.Taxas/obj
+/GranitoPagamento.Test/obj
